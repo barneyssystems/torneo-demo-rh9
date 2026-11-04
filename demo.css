@@ -1,0 +1,2 @@
+/* demo only: Papá's phone shows just the day, the schedule and corrections */
+#tabs [data-tab=armar],#tabs [data-tab=jugadores],#tabs [data-tab=historial],#tabs [data-tab=respaldo]{display:none}
